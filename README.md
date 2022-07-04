@@ -9,7 +9,7 @@ You can paste each js file in your development environment (intellij idea, VS Co
    
        - Tasks_1-30.js - 30 little tasks
        - Tasks_functions_if_else.js - few tasks that have connection with Tasks_1-30.js
-       - JS+HTML - derives from Tasks_functions_if_else.js. Consist of files: JavaScript and HTML, that allow you to run an application in Browser, enter your age in Prompt and get the response, corresponding to the entered data, on the HTML page.  
+       - JS+HTML - derives from Tasks_functions_if_else.js. Consists of files: JavaScript and HTML, that allow you to run an application in Browser, enter your age in Prompt and get the response, corresponding to the entered data, on the HTML page.  
        
   - JS_2 
   
